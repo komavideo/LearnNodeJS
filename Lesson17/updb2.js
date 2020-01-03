@@ -20,3 +20,4 @@ async function upAllDB() {
     console.log(result1, result2, result3);
 }
 upAllDB();
+
