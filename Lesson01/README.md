@@ -35,8 +35,8 @@ https://nodejs.org/
 ## 视频计划
 * 每个视频只包括一个知识点，并控制在5-7分钟之内（甚至更短，但经常超时）
 * 原代码共享
-  - Git@OSC  
-    https://gitee.com/komavideo/LearnNodeJS
+  - GitHub  
+    https://github.com/komavideo/LearnNodeJS
 
 ## 小马视频频道
 
