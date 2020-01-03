@@ -34,7 +34,7 @@
 
 ## 课程文件
 
-https://gitee.com/komavideo/LearnNodeJS
+https://github.com/komavideo/LearnNodeJS
 
 ## 小马视频频道
 
